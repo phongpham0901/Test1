@@ -1,0 +1,14 @@
+{
+    "dependencies": [
+        {
+            "name": "com.cysharp.unitask",
+            "hash": "fbe0bf85155f42f8832205f7b3ac3df571ada33e",
+            "url": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+        },
+        {
+            "name": "com.neuecc.unirx",
+            "hash": "6baeccf6c544c155497164327cca72f28163a578",
+            "url": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+[submodule "My project/Packages/GameFoundation"]
+	path = My project/Packages/GameFoundation
+	url = https://github.com/GameDevelopmentKit/GameFoundation.git
